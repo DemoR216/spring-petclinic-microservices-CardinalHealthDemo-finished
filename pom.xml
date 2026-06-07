@@ -32,6 +32,7 @@
         <chaos-monkey-spring-boot.version>2.7.0</chaos-monkey-spring-boot.version>
         <jolokia.version>2.1.1</jolokia.version>
         <springdoc-openapi.version>2.8.4</springdoc-openapi.version>
+        <logstash-logback-encoder.version>7.4</logstash-logback-encoder.version>
 
         <docker.image.prefix>springcommunity</docker.image.prefix>
         <docker.image.exposed.port>9090</docker.image.exposed.port>
